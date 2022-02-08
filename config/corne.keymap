@@ -59,7 +59,7 @@
             bindings = <
                 &none  &kp N1       &kp N2          &kp N3          &kp N4      &kp N5                          &kp N6      &kp N7      &kp N8      &kp N9      &kp N0      &none
                 &none  &kp LCTRL    &kp LALT        &kp LGUI        &kp LSHFT   &none                           &none       &kp LSHFT   &kp LGUI    &kp LALT    &kp LCTRL   &none
-                &none  &kp C_PREV   &kp C_VOL_DN    &kp C_VOL_UP    &kp C_NEXT  &kp C_PP                        &kp MINUS   &kp EQUAL   &none       &kp DOT     &none       &none
+                &none  &kp C_PREV   &kp C_VOL_DN    &kp C_VOL_UP    &kp C_NEXT  &kp C_PP                        &kp MINUS   &kp EQUAL   &kp COMMA   &kp DOT     &kp FSLH    &none
                                                                     &trans      &trans      &trans      &trans  &trans      &trans
             >;
         };
